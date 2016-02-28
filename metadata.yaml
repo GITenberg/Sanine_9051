@@ -1,0 +1,88 @@
+_repo: Sanine_9051
+alternative_title: Sanin. English
+contributor:
+  author_of_introduction:
+    agent_name: Cannan, Gilbert
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '2603'
+    url: http://www.gutenberg.org/2009/agents/2603
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+  translator:
+    agent_name: Pinkerton, Percy
+    aliases:
+    - Pinkerton, Percy E.
+    - Pinkerton, P. (Percy)
+    gutenberg_agent_id: '2956'
+    url: http://www.gutenberg.org/2009/agents/2956
+    wikipedia: http://en.wikipedia.org/wiki/Percy_E._Pinkerton
+creator:
+  author:
+    agent_name: Artsybashev, M. (Mikhail)
+    aliases:
+    - Арцыбашев, Михаил Петрович
+    - Artsybashev, Mikhail Petrovich
+    - Artzibashef, Michael
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '2955'
+    url: http://www.gutenberg.org/2009/agents/2955
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Artsybashev
+description: "Sanin (Russian: Санин) is a novel by the Russian writer Mikhail Artsybashev.\
+  \ It has an interesting history being written by a 26-year-old in 1904 – at the\
+  \ peak of the various changes in Russian society (democratic activities, first democratically-elected\
+  \ Duma, as well as the Russian Revolution of 1905). It was published and criticized\
+  \ in 1907, the year of one of the most horrific political reactions in Russian history.\
+  \ In the early 1900s Russia society was heavily influenced by religions, primarily\
+  \ the Russian Orthodox Church. Though there were many other religions such as Uniate\
+  \ Catholics, Judaism, and Muslims, none of them condoned an open expression of sexuality.\
+  \ By 1908 the novel was no longer being produced due to censorship. It was banned\
+  \ as a \"work of pornography\" (Otto Boele). When Artsybashev emigrated to Poland\
+  \ after the Russian Revolution of 1917, he was condemned by the Soviet authorities\
+  \ and his books were banned from publication, only to be revealed afresh to readers\
+  \ in the 1990s.\nSanin is a novel of true originality of form and content. Its hero,\
+  \ twenty-something Sanin, after a long absence from home, comes back to visit his\
+  \ mother and sister. Sanin deals with sex and sexual activity throughout the novel.\
+  \ The main character Sanin and his sister Lida dabble in premarital sex. Lida describes\
+  \ her experience with Zarudin as her body filled with \"thrilled and shaken with\
+  \ passion\". Knowing it is not the best thing for a young lady not to be married\
+  \ and have relations, she's longing for another chance to experience that same passion\
+  \ and lust. The novel deals with nihilism, the belief that traditional morals, ideas,\
+  \ beliefs, etc., have no worth or value. One of the characters gets to a point where\
+  \ he admits \"that life was the realization of freedom, and consequently that it\
+  \ was natural for a man to live for enjoyment\". Lida has some remorse because of\
+  \ society and their views on premarital sex, but then comes to the realization that\
+  \ it is her life saying \"I wanted to do it and I did it; and I felt so happy\"\
+  . During his stay Sanin meets various people, some of whom are neutral, amazed,\
+  \ threatened or excited by his way of thinking about the world and human existence.\
+  \ Sanin remains confident and self-assured having seduced and deflowered a local\
+  \ virgin, but at the end of the book leaves town under a cloud.\nColin Wilson wrote\
+  \ about Sanin:\n\n\"The book's hero sneers at the unhealthy moral preoccupations\
+  \ of most Russians, and preaches a doctrine of sunlight and frank sensuality. The\
+  \ book had an enormous impact on Russian youth, who were eager to put its doctrines\
+  \ into practice. Probably no book in world literature has been responsible for the\
+  \ loss of so many maidenheads.\"\n\nWilson added that Sanin deserves more study\
+  \ in English.\nThe novelty of Sanin lies in its insertion of progressive and liberal\
+  \ thoughts and ideals in the literary form of a novel. Critics in 1907 and later\
+  \ in the Russian SFSR were furious to find such views as Sanin's in existence. They\
+  \ put their efforts to discrediting the book, whose references to the Bible, Shakespeare,\
+  \ Dickens, Dostoevsky, Nietzsche and whose precipitation of the dramatic changes\
+  \ in the morality and political life of the following decades were, in their view,\
+  \ dangerous for the Russian people.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9051'
+  wikidata: Q17088580
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Men -- Russia -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- 20th century -- Fiction'
+title: Sanine
+url: http://www.gutenberg.org/ebooks/9051
+wikipedia:
+- https://en.wikipedia.org/wiki/Sanin_(novel)
