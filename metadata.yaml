@@ -1,4 +1,5 @@
 _repo: Sanine_9051
+_version: 0.1.0
 alternative_title: Sanin. English
 contributor:
   author_of_introduction:
@@ -16,6 +17,9 @@ contributor:
     gutenberg_agent_id: '2956'
     url: http://www.gutenberg.org/2009/agents/2956
     wikipedia: http://en.wikipedia.org/wiki/Percy_E._Pinkerton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Artsybashev, M. (Mikhail)
@@ -69,6 +73,8 @@ description: "Sanin (Russian: Санин) is a novel by the Russian writer Mikha
   \ Dickens, Dostoevsky, Nietzsche and whose precipitation of the dramatic changes\
   \ in the morality and political life of the following decades were, in their view,\
   \ dangerous for the Russian people.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9051#Sanine
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
